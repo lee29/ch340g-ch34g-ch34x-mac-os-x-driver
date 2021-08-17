@@ -74,7 +74,8 @@ $flashrom -p ch341a_spi -w cfenorom.bin
 
 
 
-
+https://blog.csdn.net/alanzjl/article/details/47337337
+https://www.right.com.cn/forum/thread-429312-1-1.html
 
 
 
